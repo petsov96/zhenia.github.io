@@ -1,2 +1,2 @@
 # zhenia.github.io
-My first reрository
+My first repository
